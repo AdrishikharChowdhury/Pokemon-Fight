@@ -10,7 +10,7 @@ This is a simple console-based Pokemon battle simulation program written in C. P
 - **Dynamic Display**: The program displays the current state of the battle, including stats for each Pokemon.
 
 ## Program Structure
-- ** Struct `pokemon`**: Defines the attributes of each Pokemon.
+- **Struct `pokemon`**: Defines the attributes of each Pokemon.
 - **Function List**:
   - `sentenceCase()`: Converts a string to sentence case.
   - `stadium()`: Displays the battle stadium.
